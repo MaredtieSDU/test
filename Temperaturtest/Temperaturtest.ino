@@ -60,5 +60,4 @@ char status;
       status = pressure.getTemperature(T);
 Serial.println(T);
 Serial.println(status);
-
 }
